@@ -1,0 +1,109 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+ENV/
+env/
+.venv
+env.bak/
+venv.bak/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+.project
+.pydevproject
+.settings/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Data files
+*.csv
+*.xlsx
+*.xls
+*.json
+*.pkl
+*.pickle
+*.h5
+*.hdf5
+
+# Models
+*.joblib
+*.model
+*.pt
+*.pth
+*.onnx
+*.pkl.gz
+
+# Streamlit
+.streamlit/
+*.streamlit.cache/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE temporary files
+*.bak
+*.tmp
+*.swp
+
+# Testing
+.coverage
+.pytest_cache/
+.tox/
+htmlcov/
+
+# Dependencies lock files (optional)
+poetry.lock
+Pipfile.lock
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# System files
+.AppleDouble
+.LSOverride
+*.db
